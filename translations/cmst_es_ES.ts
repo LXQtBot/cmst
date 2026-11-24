@@ -6571,7 +6571,7 @@ que el par no está ya conectado.</translation>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="109"/>
         <source>Scale program artwork for high DPI monitors.</source>
-        <translation>Escalar arte gráfico del programa para monitores de alta resolución en DPI</translation>
+        <translation>Escalar arte gráfico del programa para monitores de alta resolución en DPI.</translation>
     </message>
     <message>
         <location filename="../apps/cmstapp/code/main.cpp" line="110"/>
